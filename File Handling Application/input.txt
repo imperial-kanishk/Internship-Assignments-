@@ -1,0 +1,5 @@
+Welcome to Java File Handling.
+
+The Indian Civilization is the oldest surviving civilization on Earth. It traces its origins back to
+the chalcolithic age, when the Early Indo-European settlers established themselves in the
+Indus-Sarasvati plains, in the 5th millennium BCE.
